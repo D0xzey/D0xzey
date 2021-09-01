@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @D0xzey
-- 👀 I’m interested in dyiing inside with my keyboard
+- 👀 I’m interested in dying inside with my keyboard
 - 🌱 I’m currently learning python, maybe javascript if brain work
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on dunno yet
 - 📫 How to reach me through discord D0xzey#0430
 
 <!---
